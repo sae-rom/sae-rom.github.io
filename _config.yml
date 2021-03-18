@@ -1,30 +1,49 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://sae-rom.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Developer
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/profile_img.png
+    username : Saerom Kwon
+    description : 공부하는 개발자입니다. <br> 블로그 포스트 글에서 잘못된 부분이나 수정했으면 하는 부분, 적극적으로 댓글 남겨주신다면 감사하겠습니다.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2017-03
+        end : 2017-08
+        experience : ICIA 교육원, 반응형 Web&App 개발자 양성과정 이수
+      - start : 2018-02
+        end : 2018-06
+        experience : (주)두레엔, 개발팀 사원
+      - start : 2018-07
+        end : 2021-02
+        experience : (주)두레엔, 개발팀 아르바이트
+      - start : 2021-02
+        end : 
+        experience : (주)서울소프트, 개발팀 주임연구원
     skills : 
       - skill : HTML5 & CSS
+        value : 95  # Percent value
+      - skill : JavaScript
+        value : 90  # Percent value
+      - skill : SQL
+        value : 90  # Percent value
+      - skill : Spring
+        value : 90  # Percent value
+      - skill : Django
+        value : 85  # Percent value
+      - skill : Android
         value : 85  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  "tofha308@naver.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: sae-rom
     gitlab: 
     bitbucket: 
     google_plus:
