@@ -53,7 +53,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : sae-rom-github-io
 
 # Pagination
 paginate: 5
