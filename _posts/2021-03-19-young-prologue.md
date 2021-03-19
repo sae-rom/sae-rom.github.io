@@ -6,9 +6,8 @@ tags: [청춘서, App]
 author: Saerom Kwon
 comments : True
 ---
-
-
 ![sample image]({{ site.baseurl }}/assets/img/app_img.png)
+<br><br>
 
 `청춘서`는 제도들을 한 눈에 볼 수 있는 이 시대 청춘들의 기본서의 줄임말로, 청년들에게 청년정책 정보를 제공하기 위해 기획한 앱이다.<br>
 
