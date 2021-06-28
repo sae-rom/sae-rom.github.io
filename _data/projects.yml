@@ -27,6 +27,19 @@
             <li>profile 이미지 효과</li>
             <li>gem 배포</li> 
 
+            
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : "young_app_img.png" # path: assets/project/
+    date : 2020.03 - 2020.11
+    title : 청춘書
+    summary : 이 시대 청춘들의 기본서
+    description :  
+
+            
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
