@@ -37,14 +37,14 @@ theme_settings :
       - skill : Django
         value : 85  # Percent value
       - skill : Android
-        value : 85  # Percent value
+        value : 90  # Percent value
         
   # Icons
   icons :
     email:  "tofha308@naver.com"
     linkedin:  # Full URL 
     github: sae-rom
-    gitlab: 
+    gitlab:
     bitbucket: 
     google_plus:
     twitter:
